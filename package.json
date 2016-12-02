@@ -1,0 +1,13 @@
+{
+  "name": "iban",
+  "version": "1.0.0",
+  "description": "This application validates the iban codes",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Kushtrim Abdiu",
+  "license": "ISC"
+}

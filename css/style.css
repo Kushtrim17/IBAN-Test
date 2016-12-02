@@ -1,0 +1,21 @@
+.container
+{
+    margin: 100px;
+    border: 0.5px solid gray;
+    padding: 20px;
+}
+.title
+{
+    opacity: 0.68;
+}
+input
+{  
+    width: 400px;
+    height: 30px;
+}
+#btnValidate
+{
+    margin-top: 10px;
+    width: 100px;
+    height: 30px;
+}
